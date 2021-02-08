@@ -25,10 +25,6 @@ I'm an environmental scientist that uses data to better inform decision makers. 
 
 ### 🗣 Recent activity
 
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
+<!--START_SECTION:activity--> 
 
----
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
+.github/workflows/update-readme.yml
