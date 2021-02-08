@@ -24,3 +24,6 @@ I'm an environmental scientist that uses data to better inform decision makers. 
 📫 How to reach me: hamutahlc@gmail.com 
 
 [![Hamutahl's Github Stats](https://github-readme-stats.vercel.app/api?username=hamutahlc)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://visitor-badge.glitch.me/badge?page_id=hamutahlc.hamutahlc)
+
