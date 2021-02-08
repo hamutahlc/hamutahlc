@@ -17,11 +17,11 @@ I'm an environmental scientist that uses data to better inform decision makers. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamutahl-cohen-820a484b/)](https://www.linkedin.com/in/hamutahl-cohen-820a484b/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BeeScientista)](https://twitter.com/BeeScientista)
 
-### 👯 RANDOM
+### 👯 Random!
 ⚡ Fun fact: I'm a bug nerd and most of my projects involve insects in some capacity!
 😄 Pronouns: she/her
 🌱 I’m currently learning: web scraping and sentiment analysis
 📫 How to reach me: hamutahlc@gmail.com 
 
-
-![Visitor Count](https : //profile-counter.glitch.me/{hamutahlc}/count.svg)
+### Recent activity on here
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
