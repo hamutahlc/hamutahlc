@@ -22,3 +22,6 @@ I'm an environmental scientist that uses data to better inform decision makers. 
 😄 Pronouns: she/her
 🌱 I’m currently learning: web scraping and sentiment analysis
 📫 How to reach me: hamutahlc@gmail.com 
+
+
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
