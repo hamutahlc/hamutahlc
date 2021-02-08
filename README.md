@@ -23,5 +23,12 @@ I'm an environmental scientist that uses data to better inform decision makers. 
 🌱 I’m currently learning: web scraping and sentiment analysis
 📫 How to reach me: hamutahlc@gmail.com 
 
-### Recent activity on here
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+### 🗣 Recent activity
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+
+---
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP--></b>
+</p>
