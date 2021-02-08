@@ -24,4 +24,4 @@ I'm an environmental scientist that uses data to better inform decision makers. 
 📫 How to reach me: hamutahlc@gmail.com 
 
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/{hamutahlc}/count.svg)
