@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm [Hamutahl Cohen](https://hamutahlcohen.squarespace.com/)!
 
-I'm an environmental scientist that uses data to better inform decision makers. I apply laboratory techniques, field observations, and data analytics to gain novel insight to conservation problems. I work on a variety of sustainability issues and collaborate closely with folks such as farmers, city planners, educators, and policy makers.
+I'm an entomologist that uses data to better inform decision makers. I apply laboratory techniques, field observations, and data analytics to gain novel insight to conservation and horticulture problems. I work on a variety of sustainability issues and collaborate closely with folks such as farmers, city planners, educators, and policy makers.
 
 ✨ Reach out to collaborate on a project ✨
 
